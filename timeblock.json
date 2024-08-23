@@ -1,41 +1,5 @@
 [
   {
-    "id": 1,
-    "date": "2024-08-23",
-    "time": "20:30",
-    "booked": false
-  },
-  {
-    "id": 2,
-    "date": "2024-08-23",
-    "time": "20:45",
-    "booked": false
-  },
-  {
-    "id": 3,
-    "date": "2024-08-23",
-    "time": "21:00",
-    "booked": false
-  },
-  {
-    "id": 4,
-    "date": "2024-08-23",
-    "time": "21:15",
-    "booked": false
-  },
-  {
-    "id": 5,
-    "date": "2024-08-23",
-    "time": "21:30",
-    "booked": false
-  },
-  {
-    "id": 6,
-    "date": "2024-08-23",
-    "time": "21:45",
-    "booked": false
-  },
-  {
     "id": 7,
     "date": "2024-08-24",
     "time": "09:00",
